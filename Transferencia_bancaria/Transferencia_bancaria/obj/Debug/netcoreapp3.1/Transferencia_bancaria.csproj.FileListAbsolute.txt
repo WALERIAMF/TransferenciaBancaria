@@ -1,0 +1,13 @@
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\obj\Debug\netcoreapp3.1\Transferencia_bancaria.csprojAssemblyReference.cache
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\obj\Debug\netcoreapp3.1\Transferencia_bancaria.AssemblyInfoInputs.cache
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\obj\Debug\netcoreapp3.1\Transferencia_bancaria.AssemblyInfo.cs
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\obj\Debug\netcoreapp3.1\Transferencia_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\bin\Debug\netcoreapp3.1\Transferencia_bancaria.exe
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\bin\Debug\netcoreapp3.1\Transferencia_bancaria.deps.json
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\bin\Debug\netcoreapp3.1\Transferencia_bancaria.runtimeconfig.json
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\bin\Debug\netcoreapp3.1\Transferencia_bancaria.runtimeconfig.dev.json
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\bin\Debug\netcoreapp3.1\Transferencia_bancaria.dll
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\bin\Debug\netcoreapp3.1\Transferencia_bancaria.pdb
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\obj\Debug\netcoreapp3.1\Transferencia_bancaria.dll
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\obj\Debug\netcoreapp3.1\Transferencia_bancaria.pdb
+C:\Users\unifesp\Documents\.dotnet\Transferencia_bancaria\Transferencia_bancaria\Transferencia_bancaria\obj\Debug\netcoreapp3.1\Transferencia_bancaria.genruntimeconfig.cache
